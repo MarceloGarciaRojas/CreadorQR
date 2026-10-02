@@ -1,0 +1,10 @@
+{
+  "name": "QR Studio Pro - Generador y Escáner QR",
+  "description": "Generador y escáner de códigos QR offline con personalización de colores, logos, historial de escaneos y exportación en PNG, JPG, SVG y PDF.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
